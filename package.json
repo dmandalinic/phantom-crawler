@@ -1,0 +1,25 @@
+{
+  "name": "phantom-crawler",
+  "version": "0.0.1",
+  "description": "Asynchronous crawler for Node utilizing PhantomJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmandalinic/phantom-crawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmandalinic/phantom-crawler/issues"
+  },
+  "homepage": "https://github.com/dmandalinic/phantom-crawler",
+  "dependencies": {
+    "async": "^1.5.2",
+    "ghost-town": "^2.1.0",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {}
+}
